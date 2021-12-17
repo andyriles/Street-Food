@@ -1,4 +1,4 @@
-# Celo Marketplace Dapp
+# Street Food Dapp
 
 ![](https://github.com/dacadeorg/celo-development-101/blob/main/content/gifs/celo_trailer_02.gif)
 
@@ -12,7 +12,7 @@ This is a very simple marketplace dapp where users can:
 
 ## Live Demo
 
-[Marketplace Dapp](https://andyriles.github.io/Street-Food/)
+[Street Food](https://andyriles.github.io/Street-Food/)
 
 ## Usage
 
